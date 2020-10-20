@@ -1,7 +1,7 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi  I'm Roalia</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi 👋, I'm Roalia</h1>
 
 <h3 align="center">
-- 📖️ I’m know javascript and php and I'm learning typescript.<br>
+- 📖️ I know javascript and php and I'm learning typescript.<br>
 - 💙️ I'm friendly, I have a lot of friends <br>
 - 🔥️ All I want is to share quality repos on github <br>
 - 🍍️ You can contact me on discord. Roalia#0001 <br>
